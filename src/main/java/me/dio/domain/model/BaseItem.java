@@ -12,4 +12,6 @@ public abstract class BaseItem {
     private long id;
     private String icon;
     private String description;
+
+
 }
